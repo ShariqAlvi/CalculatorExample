@@ -29,7 +29,7 @@ public class TLSEmail {
      */
     public static void main(String[] args) {
 
-        System.out.println("TLSEmail Starting");
+        System.out.println("TLSEmail Start");
         Properties props = new Properties();
         try {
             String to="shariqbtech@gmail.com";
