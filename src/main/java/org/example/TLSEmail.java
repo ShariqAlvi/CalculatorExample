@@ -14,6 +14,7 @@ import java.io.UnsupportedEncodingException;
 
 
 
+
 /**
  * Send Email in Java SMTP with TLS Authentication
  * With attachment and image
@@ -28,7 +29,7 @@ public class TLSEmail {
      */
     public static void main(String[] args) {
 
-        System.out.println("TLSEmail Start");
+        System.out.println("TLSEmail Starting");
         Properties props = new Properties();
         try {
             String to="shariqbtech@gmail.com";
